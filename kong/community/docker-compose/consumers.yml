@@ -1,4 +1,0 @@
-_format_version: "3.0"
-consumers:
-  - username: test-user
-    custom_id: user-001
