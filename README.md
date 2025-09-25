@@ -1,8 +1,6 @@
 # 📂 `api-management-solutions`
 
 
-# API Management Labs
-
 This repository contains **hands-on labs, Infrastructure as Code (IaC), and automation scripts** for learning and implementing **API Gateways and API Management solutions**.  
 
 As a DevOps engineer, you’ll use this repo to:
